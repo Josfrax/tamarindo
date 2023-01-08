@@ -12,3 +12,5 @@ venv/
 data/
 *.sqlite3
 
+
+# Others
